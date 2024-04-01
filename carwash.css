@@ -1,0 +1,35 @@
+body{
+  background-image:
+  url(https://wallpapercave.com/wp/wp3203655.jpg);
+;
+    background-size:cover;
+    background-repeat:no-repeat;
+    background-attachment:fixed;
+}
+h1{
+  text-align:center;
+  font-size:60px;
+}
+hr{
+  background-color:Black;
+  Padding:10px;
+  width:1000px;
+
+}
+h2{
+  text-align:center;
+  font-size:45px;
+
+}
+h3{
+  text-align:center;
+  font-size:30px;
+  font-family:impact,sans-serif;
+  color:red;
+}
+p{
+  text-align:center;
+  font-size:20px;
+  font-family:impact;
+  color:red;
+}
